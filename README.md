@@ -19,7 +19,7 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-Program to swap two values.
+#Program to swap two values.
 #Developed by:Kolluru pujitha 
 #RegisterNumber:23002983
 a=input()
